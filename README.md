@@ -8,6 +8,7 @@ how many times that particular bigram occurred in the text.
 
 Given the text: “The quick brown fox and the quick blue hare.” The bigrams with their counts
 would be.
+
 ● “the quick” 2
 
 ● “quick brown” 1
