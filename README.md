@@ -35,6 +35,8 @@ The input to the application will be a text file containing the words separated 
 
 (3) Navigate to $PROJECT_HOME/build/libs directory
 
-(4) Run the command java -jar biagramapp-1.0-SNAPSHOT.jar <path to input text file containing biagrams>
+(4) Run the following command 
 
-The above should print the histogram of the biagrams
+java -jar biagramapp-1.0-SNAPSHOT.jar **path to input text file containing biagrams**
+
+The above command will print the histogram of the biagrams on the console
