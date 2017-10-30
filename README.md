@@ -1,9 +1,11 @@
 **Description**
+
 This is an app which identifies the count of biagrams from the input text file.
 A bigram is any two adjacent words in the text disregarding case. A histogram is the count of
 how many times that particular bigram occurred in the text.
 
 **Example**
+
 Given the text: “The quick brown fox and the quick blue hare.” The bigrams with their counts
 would be.
 ● “the quick” 2
@@ -21,9 +23,11 @@ would be.
 ● “blue hare” 1
 
 **Assumption**
+
 The input to the application will be a text file containing the words separated by space.
 
 **How to run**
+
 (1) Clone the repository to your local machine
 
 (2) Run gradle clean build
